@@ -6,3 +6,13 @@ Este é um projeto simples desenvolvido em **Python** com o objetivo de praticar
 
 * **Python 3.x**
 * **Pandas** (Biblioteca para manipulação e análise de dados)
+
+---
+
+👤 Autor: Desenvolvido por Alexandre Dias Garcia
+
+Aspirante em Desenvolvimento Python
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
