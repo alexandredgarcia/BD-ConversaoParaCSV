@@ -1,7 +1,6 @@
 # 📚 Livraria 
 
 Este projeto foi desenvolvido em Python com o objetivo de demonstrar como estruturar dados utilizando listas e dicionários, convertê-los para um DataFrame com a biblioteca Pandas e exportá-los para um arquivo no formato CSV.
-
 O projeto faz parte dos meus estudos em desenvolvimento Python e tem como foco a prática de manipulação de dados e geração de arquivos.
 ---
 
