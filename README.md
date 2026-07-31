@@ -20,6 +20,29 @@ O projeto faz parte dos meus estudos em desenvolvimento Python e tem como foco a
 
 ---
 
+## 📂 Estrutura do projeto
+```text
+livraria-csv/
+│
+├── main.py
+├── livraria.csv
+└── README.md
+```
+
+---
+
+## 📊 Exemplo de saída
+Dados exibidos no console
+```text
+Autor	                Livro  	                Ano
+Sun Tzu	              A Arte da Guerra  	    2000
+Fernando Pessoa	      Poesias Selecionadas	  2004
+Thomaz Mann	          A Montanha Mágica	      2015
+João Guimarães Rosa	  Primeiras Estórias    	2017
+```
+
+---
+
 👤 Autor: Desenvolvido por Alexandre Dias Garcia
 
 Aspirante em Desenvolvimento Python
