@@ -36,8 +36,8 @@ Dados exibidos no console
 ```text
 Autor	                Livro  	                Ano
 Sun Tzu	              A Arte da Guerra  	    2000
-Fernando Pessoa	      Poesias Selecionadas	  2004
-Thomaz Mann	          A Montanha Mágica	      2015
+Fernando Pessoa	      Poesias Selecionadas	   2004
+Thomaz Mann	          A Montanha Mágica	       2015
 João Guimarães Rosa	  Primeiras Estórias    	2017
 ```
 
