@@ -32,7 +32,7 @@ livraria-csv/
 ---
 
 ## 📝 Exemplo do Código
-
+```text
 import pandas as pd
 
 #Dados de exemplo
@@ -44,7 +44,7 @@ ano = [2000,2004,2015,2017]
 dados_livro = {'Autor': autor, 'Livro': livro, 'Ano': ano}
 autores = pd.DataFrame(dados_livro)
 autores.to_csv('livraria.csv')
-
+```
 ---
 
 ## 📊 Exemplo de saída
