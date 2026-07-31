@@ -35,12 +35,12 @@ livraria-csv/
 
 import pandas as pd
 
-# Dados de exemplo
+#Dados de exemplo
 autor = ['Sun Tzu','Fernando Pessoa','Thomaz Mann','João Guimarães Rosa']
 livro = ['A arte da Guerra','Poesias selecionadas','A montanha mágica','Primeiras estórias']
 ano = [2000,2004,2015,2017]
 
-# Criando o DataFrame e exportando para CSV
+#Criando o DataFrame e exportando para CSV
 dados_livro = {'Autor': autor, 'Livro': livro, 'Ano': ano}
 autores = pd.DataFrame(dados_livro)
 autores.to_csv('livraria.csv')
